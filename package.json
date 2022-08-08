@@ -3,6 +3,27 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "mongodb": "^4.8.1",
+    "mongoose": "^6.5.1",
+    "nodemon": "^2.0.19",
     "router": "^1.3.7"
-  }
+  },
+  "name": "node-journey",
+  "version": "1.0.0",
+  "main": "tempCodeRunnerFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js localhost:3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lincolnzera1/Node.js-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lincolnzera1/Node.js-journey/issues"
+  },
+  "homepage": "https://github.com/lincolnzera1/Node.js-journey#readme",
+  "description": ""
 }
